@@ -93,6 +93,10 @@ hi htmlTagName                  ctermfg=NONE  ctermbg=NONE  cterm=NONE          
 hi htmlArg                      ctermfg=NONE  ctermbg=NONE  cterm=NONE          guifg=NONE      guibg=NONE      gui=NONE
 hi htmlSpecialChar              ctermfg=79    ctermbg=NONE  cterm=NONE          guifg=#5eebb8   guibg=NONE      gui=NONE
 
+hi xmlTag                      ctermfg=NONE  ctermbg=NONE  cterm=NONE          guifg=NONE      guibg=NONE      gui=NONE
+hi xmlEndTag                   ctermfg=NONE  ctermbg=NONE  cterm=NONE          guifg=NONE      guibg=NONE      gui=NONE
+hi xmlTagName                  ctermfg=NONE  ctermbg=NONE  cterm=NONE          guifg=NONE      guibg=NONE      gui=NONE
+
 hi javaScriptFunction           ctermfg=185   ctermbg=NONE  cterm=NONE          guifg=#e6cd69   guibg=NONE      gui=NONE
 hi javaScriptRailsFunction      ctermfg=140   ctermbg=NONE  cterm=NONE          guifg=#a074c4   guibg=NONE      gui=NONE
 hi javaScriptBraces             ctermfg=102   ctermbg=NONE  cterm=NONE          guifg=#858d8a   guibg=NONE      gui=NONE
